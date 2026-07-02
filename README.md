@@ -25,7 +25,6 @@ Transformasi data dilakukan pada layer database menggunakan **SQL View** untuk m
 ## 📈 Dashboard Architecture (Power BI)
 
 ### Page 1: Executive Risk Monitoring
-![Dashboard Page 1](assets/dashboard_page1.png) *(Ganti dengan gambar screenshot dasbormu)*
 
 Halaman utama berfokus pada visualisasi metrik makro portofolio menggunakan formula **DAX** kustom:
 * **Total Loan Applications:** `COUNT(id)` -> Mengukur volume aplikasi.
